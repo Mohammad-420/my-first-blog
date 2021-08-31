@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+
+# enviroments
+.env
+myvenv/
+myenv/
+venv/
+
+# Static folder at project root
+/static/
+
+# database
+db.sqlite3
+
+# visual stadio code
+.vscode/
